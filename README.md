@@ -515,12 +515,12 @@ Error handling allows your program to be more robust and user-friendly by managi
    - **Example:** You could use ANOVA to find out if students in Class 10 are taller on average than students in Class 9 and Class 8.
 
 ### 15. **Time Series Analysis**
-   **What is Time Series Analysis?** This method is used to analyze data that changes over time, like stock prices or weather temperatures. It helps predict future values based on past data.
-   - **Example:** If you want to predict the sales for a store in the next month, you can use time series analysis to study past sales data.
+   **What is Time Series Analysis?** This method analyzes data that changes over time, like stock prices or weather temperatures. It helps predict future values based on past data.
+   **Example:** If you want to predict a store's sales in the next month, you can use time series analysis to study past sales data.
 
 ---
 
-* NumPy and Pandas *
+*NumPy and Pandas*
 
 ### 1. **Arrays and DataFrames (NumPy Arrays, Pandas DataFrame)**
    - **NumPy Arrays**: Arrays are the core of NumPy, which are collections of elements of the same type. They allow for mathematical operations on large datasets and come with a wide array of methods for manipulating them, such as reshaping, slicing, and performing vectorized operations.
@@ -578,7 +578,9 @@ Error handling allows your program to be more robust and user-friendly by managi
    - **Pandas MultiIndex**: Pandas allows for hierarchical indexing (MultiIndex), where you can have multiple levels of indexing, useful for dealing with complex data structures like time series data with categories.
    - **Querying**: Pandas `.query()` function allows querying of DataFrames using a SQL-like syntax to filter data more efficiently than with boolean conditions alone.
 
-* NumPy and Pandas *
+
+
+*NumPy and Pandas*
 
 **NumPy** and **Pandas**, including code examples for each concept and detailed explanations of the code.
 
